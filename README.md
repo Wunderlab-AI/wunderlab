@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wunderlab-ai/brand/main/svg/wunderlab-logo-horizontal-reversed.svg">
-    <img alt="Wunderlab" src="https://raw.githubusercontent.com/wunderlab-ai/brand/main/svg/wunderlab-logo-horizontal.svg" width="420">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wunderlab-ai/brand/refs/heads/master/svg/wunderlab-logo-horizontal-reversed.svg">
+    <img alt="Wunderlab" src="https://raw.githubusercontent.com/wunderlab-ai/brand/refs/heads/master/svg/wunderlab-logo-horizontal.svg" width="420">
   </picture>
 </p>
 
@@ -13,7 +13,6 @@
   <a href="https://wunderlab.eu">Website</a> ·
   <a href="docs/">Docs</a> ·
   <a href="CONTRIBUTING.md">Contributing</a> ·
-  <a href="https://www.patreon.com/YOUR-PAGE">Support</a>
 </p>
 
 > **Status: early development.** This README describes the design and goals of Wunderlab. Features land in the open, and parts of what's described here are not built yet. Watch the repository and the issue tracker for progress.
@@ -87,10 +86,6 @@ Build instructions will be added here with the first alpha. The toolchain is:
 | Server | PHP, Composer, Laravel |
 | Web and apps | Node.js, pnpm, Next.js, React, Tailwind |
 
-## Supporting the project
-
-Wunderlab is open source and free to run entirely on your own machine. Supporters on [Patreon](https://www.patreon.com/YOUR-PAGE) get access to a cloud-hosted version that offloads inference to our servers. Your conversations stay stored locally, and only inference requests leave your machine. Local-only use is never limited.
-
 ## Contributing
 
 Issues, ideas, and pull requests are welcome. Start with [CONTRIBUTING.md](CONTRIBUTING.md). To report a security problem, please follow [SECURITY.md](SECURITY.md) instead of opening a public issue.
@@ -103,4 +98,4 @@ The Wunderlab name and logos are not covered by that license. See the [brand rep
 
 ---
 
-<p align="center">Made in Limburg 🇳🇱 · <a href="https://wunderlab.eu">wunderlab.eu</a></p>
+<p align="center">Made with love from 🇳🇱 · <a href="https://wunderlab.eu">wunderlab.eu</a></p>
