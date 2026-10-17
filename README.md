@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://wunderlab.eu">Website</a> ·
   <a href="docs/">Docs</a> ·
-  <a href="CONTRIBUTING.md">Contributing</a> ·
+  <a href="CONTRIBUTING.md">Contributing</a>
 </p>
 
 > **Status: early development.** This README describes the design and goals of Wunderlab. Features land in the open, and parts of what's described here are not built yet. Watch the repository and the issue tracker for progress.
