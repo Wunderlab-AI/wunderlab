@@ -1,0 +1,80 @@
+# --- Build output ---
+/build/
+/out/
+/cmake-build-*/
+CMakeUserPresets.json
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+Testing/
+compile_commands.json
+.cache/
+vcpkg_installed/
+
+# --- Compiled artifacts ---
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.exp
+*.pch
+*.gch
+*.cubin
+*.fatbin
+
+# --- Editors and IDEs ---
+.vs/
+.idea/
+.vscode/
+*.swp
+*~
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Secrets and local config ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+
+# --- Model weights and datasets: never commit these ---
+*.gguf
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.onnx
+/models/
+/datasets/
+/data/
+# ...but tiny test fixtures are fine:
+!tests/fixtures/**
+
+# --- Logs, coverage, scripts ---
+*.log
+*.gcda
+*.gcno
+*.profraw
+coverage/
+__pycache__/
+*.pyc
+.venv/
+
+# --- Umbrella repo only (uncomment there) ---
+/vendor/
+node_modules/
+.next/
+/server/storage/*.key

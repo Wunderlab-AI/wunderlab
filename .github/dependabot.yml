@@ -1,0 +1,12 @@
+# Save as .github/dependabot.yml in every repo: keeps pinned actions up to date.
+# In the umbrella repo also uncomment the gitsubmodule block.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+#  - package-ecosystem: gitsubmodule
+#    directory: /
+#    schedule:
+#      interval: weekly

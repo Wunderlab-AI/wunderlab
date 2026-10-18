@@ -1,0 +1,21 @@
+# Save as .github/workflows/ci.yml in every C++ module repo.
+# One file for both remotes: it checks whether the repo it runs in is private,
+# and trims the matrix to Linux only when it is (macOS counts 10x and Windows 2x
+# on private repos). The public repo gets the full matrix, for free.
+name: CI
+
+on:
+  push:
+    branches: [main, master]   # keep only the one you use
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  ci:
+    uses: Wunderlab-AI/.github/.github/workflows/cpp-ci.yml@main
+    with:
+      macos: ${{ !github.event.repository.private }}
+      windows: ${{ !github.event.repository.private }}
+      # submodules: recursive   # needed in the umbrella repo
