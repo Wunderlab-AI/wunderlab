@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wunderlab-ai/brand/main/svg/wunderlab-logo-horizontal-reversed.svg">
-    <img alt="Wunderlab" src="https://raw.githubusercontent.com/wunderlab-ai/brand/main/svg/wunderlab-logo-horizontal-reversed.svg" width="420">
+    <img alt="Wunderlab" src="https://raw.githubusercontent.com/wunderlab-ai/brand/main/svg/wunderlab-logo-horizontal.svg" width="420">
   </picture>
 </p>
 
