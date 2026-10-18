@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://wunderlab.eu">Website</a> ·
   <a href="docs/">Docs</a> ·
-  <a href="CONTRIBUTING.md">Contributing</a>
+  <a href="https://github.com/wunderlab-ai/.github/blob/main/CONTRIBUTING.md">Contributing</a>
 </p>
 
 > **Status: early development.** This README describes the design and goals of Wunderlab. Features land in the open, and parts of what's described here are not built yet. Watch the repository and the issue tracker for progress.
@@ -88,7 +88,7 @@ Build instructions will be added here with the first alpha. The toolchain is:
 
 ## Contributing
 
-Issues, ideas, and pull requests are welcome. Start with [CONTRIBUTING.md](CONTRIBUTING.md). To report a security problem, please follow [SECURITY.md](SECURITY.md) instead of opening a public issue.
+Issues, ideas, and pull requests are welcome. Start with [CONTRIBUTING.md](https://github.com/wunderlab-ai/.github/blob/main/CONTRIBUTING.md). To report a security problem, please follow [SECURITY.md](https://github.com/wunderlab-ai/.github/blob/main/SECURITY.md) instead of opening a public issue.
 
 ## License
 
