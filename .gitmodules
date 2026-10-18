@@ -2,3 +2,18 @@
 	path = brand
 	url = https://github.com/wunderlab-ai/brand
 	branch = main
+[submodule "runtime/core"]
+	path = runtime/core
+	url = https://github.com/wunderlab-ai/core.git
+[submodule "runtime/engines/common"]
+	path = runtime/engines/common
+	url = https://github.com/wunderlab-ai/engine-api.git
+[submodule "runtime/engines/cuda"]
+	path = runtime/engines/cuda
+	url = https://github.com/wunderlab-ai/engine-cuda.git
+[submodule "runtime/engines/opencl"]
+	path = runtime/engines/opencl
+	url = https://github.com/wunderlab-ai/engine-opencl.git
+[submodule "contracts"]
+	path = contracts
+	url = https://github.com/wunderlab-ai/contracts.git
