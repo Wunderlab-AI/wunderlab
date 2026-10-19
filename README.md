@@ -22,8 +22,8 @@
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/license-Apache--2.0-blue.svg" alt="License">
   </a>
-  <a href="https://github.com/wunderlab-ai/core/actions/workflows/ci.yml">
-    <img src="https://github.com/wunderlab-ai/core/actions/workflows/ci.yml/badge.svg" alt="CI">
+  <a href="https://github.com/wunderlab-ai/wunderlab/actions/workflows/ci.yml">
+    <img src="https://github.com/wunderlab-ai/wunderlab/actions/workflows/ci.yml/badge.svg" alt="CI">
   </a>
 </p>
 
