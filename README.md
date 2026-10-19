@@ -14,8 +14,18 @@
   <a href="docs/">Docs</a> ·
   <a href="https://github.com/wunderlab-ai/.github/blob/main/CONTRIBUTING.md">Contributing</a>
 </p>
-
-[![Project Status: Concept](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip) [![CI](https://github.com/wunderlab-ai/core/actions/workflows/ci.yml/badge.svg)](https://github.com/wunderlab-ai/core/actions/workflows/ci.yml) [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE) 
+ 
+<p align="center">
+  <a href="https://www.repostatus.org/#wip">
+    <img src="https://www.repostatus.org/badges/latest/wip.svg" alt="Project Status: Work in Progress">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/license-Apache--2.0-blue.svg" alt="License">
+  </a>
+  <a href="https://github.com/wunderlab-ai/core/actions/workflows/ci.yml">
+    <img src="https://github.com/wunderlab-ai/core/actions/workflows/ci.yml/badge.svg" alt="CI">
+  </a>
+</p>
 
 > **Status: early development.** This README describes the design and goals of Wunderlab. Features land in the open, and parts of what's described here are not built yet. Watch the repository and the issue tracker for progress.
 
