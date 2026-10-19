@@ -8,6 +8,12 @@
 <p align="center">
   A local-first AI workspace where a curator-led network of specialized agents runs on your own hardware.
 </p>
+
+<p align="center">
+  <a href="https://wunderlab.eu">Website</a> ·
+  <a href="docs/">Docs</a> ·
+  <a href="https://github.com/wunderlab-ai/.github/blob/main/CONTRIBUTING.md">Contributing</a>
+</p>
  
 <p align="center">
   <a href="https://www.repostatus.org/#wip">
@@ -19,12 +25,6 @@
   <a href="https://github.com/wunderlab-ai/core/actions/workflows/ci.yml">
     <img src="https://github.com/wunderlab-ai/core/actions/workflows/ci.yml/badge.svg" alt="CI">
   </a>
-</p>
-
-<p align="center">
-  <a href="https://wunderlab.eu">Website</a> ·
-  <a href="docs/">Docs</a> ·
-  <a href="https://github.com/wunderlab-ai/.github/blob/main/CONTRIBUTING.md">Contributing</a>
 </p>
 
 > **Status: early development.** This README describes the design and goals of Wunderlab. Features land in the open, and parts of what's described here are not built yet. Watch the repository and the issue tracker for progress.
